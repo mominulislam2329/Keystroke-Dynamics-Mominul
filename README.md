@@ -1,4 +1,4 @@
-# Keystroke-Dynamics-Mominul
+# Keystroke Dynamics Using R
 
 In our project, we are interested in incorporating Keystroke Dynamics into our Password Based Security System.One concern about this type of system is whether or not a user is consistent over time in how they type a given passcode. For this project we were given access to a group of 51 individuals who have typed a passcode for a specific system.
 The passcode used by this code is :  .tie5Roanl
